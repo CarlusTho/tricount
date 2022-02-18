@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ES2015",
+        "noEmitOnError": true,
+        "outDir": "dist/",
+        "strict": true
+    },
+    "includes": ["src/**/*.ts"],
+    "exclude": ["src/**/*.spec.ts"]
+}
